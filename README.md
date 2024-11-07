@@ -1,8 +1,8 @@
-#Employee Data Analysis Project
+# Employee Data Analysis Project
 
 **Author :** Khouloud Kessentini
 
-###Sommaire du projet: On étudie pour ce projet une base de données d'employées de la société SBA Software.
+# Sommaire du projet: On étudie pour ce projet une base de données d'employées de la société SBA Software.
 
 Structure du projet:
 
